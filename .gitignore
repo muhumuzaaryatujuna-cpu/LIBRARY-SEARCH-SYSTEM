@@ -1,0 +1,4 @@
+*.o
+library
+books_original.txt
+*.zip
